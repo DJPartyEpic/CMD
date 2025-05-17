@@ -1,5 +1,5 @@
 @echo off
-title Command Prompt
+title Loading
 if "%1" EQU "-char" (
 if "%2" EQU "MC" (
 set char=0oo
